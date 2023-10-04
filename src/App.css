@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Tailwind included in the ClassName in each component and other styling included in the App.css which was not able to included by me the components. */
+
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #8758ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-trash {
+  margin-left: 0.75rem;
+}
+
